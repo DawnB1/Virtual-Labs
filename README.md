@@ -1,4 +1,4 @@
-# Cybrary Virtual Labs
+# Completed Cybrary Virtual Labs
 Using PowerShell to Analyze a System
 
 Event Log Collection
